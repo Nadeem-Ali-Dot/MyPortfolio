@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --body:#e4e6f5;
+    --p:#636e72;
+}
+
+body{
+    background-color: var(--body);
+    font-family: "Poppins", sans-serif;
+}
+
+p{
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  color: var(--p);
+}
+
+.curser-pointer{
+  cursor: pointer;
+}
+.bg-gray{
+  background-color: #f6f6f6;
+}
+/*start-media-query*/
+@media only screen and (max-width: 995px) {
+    #header-sm{
+        display: block;
+      }
+
+    #header-lg{
+      display: none;
+    }
+  }
+  
+  @media only screen and (min-width:956px)  {
+   #header-lg{
+      display: block;
+    }
+    #header-sm{
+        display: none;
+      }
+  }
+
+
+/* start-home */
+.lang{
+  padding: 0.8rem 2rem;
+  background-color: rgb(237, 248, 255);
+  border-radius: 4px;
+}
+
+.lang img{
+  width: 40px;
+  mix-blend-mode: inherit;
+}
+/* end-home */
+
+
+/* stat-about */
+.lang-width{
+  width: 180px;
+}
+/* end-about */
+
+
+
+#inputForm::placeholder{
+  font-size: 13px;
+  color: #bbbbbb;
+}
+
+.languages{
+  color: #636e72;
+}
