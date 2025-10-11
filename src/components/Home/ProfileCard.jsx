@@ -29,10 +29,13 @@ function ProfileCard() {
                 A Passionate <span className="fw-bold">Dot Net Developer</span>{" "}
               </p>
               <p>
-              A passionate Dot Net Developer with 1+ year of hands-on experience building modern, responsive, and user-centric web applications using <strong>HTML5, Next.js, React.js, Tailwind CSS,</strong> and custom <strong>Sass (SCSS)</strong> . I specialize in crafting engaging user interfaces, smooth animations, and seamless API integrations that deliver high-performance, scalable, and maintainable solutions.
-              </p>
-              <p>
-                Skilled in HTML, CSS, React Js, Bootstrap, JavaScript, and jQuery, I combine efficient, clean code with intuitive design principles to create impactful digital experiences. I’m eager to collaborate on innovative projects, solve real-world challenges, and continuously grow as a developer while delivering web applications that truly delight users.
+              A passionate .NET Developer with 1+ years of hands-on experience building modern, responsive, and user-centric web applications using C#, ASP.NET Core, Entity Framework, and SQL Server on the backend, combined with React.js, HTML5, Tailwind CSS, and SCSS on the frontend.
+
+I specialize in developing scalable, secure, and maintainable full-stack applications, integrating RESTful APIs, managing database operations, and delivering seamless user experiences across web platforms. My expertise lies in blending clean, efficient backend logic with intuitive and dynamic frontend interfaces.
+
+Skilled in .NET Core, Web API, React.js, JavaScript, Bootstrap, and jQuery, I bring a balanced approach to full-stack development — from database design and business logic to polished UI components.
+
+I’m eager to contribute to impactful projects, tackle real-world challenges, and continuously grow as a developer while building reliable solutions that solve business problems and delight users.
               </p>
             
               <div
