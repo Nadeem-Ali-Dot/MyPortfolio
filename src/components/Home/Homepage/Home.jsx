@@ -22,7 +22,14 @@ function Home() {
               <h6 className="mt-md-4 mt-2 fw-semibold">Dot Net Development</h6>
               <div className="d-flex flex-wrap gap-3 mt-4">
                   <div className="lang">
-                  <img src="images/next.png" alt="html" />
+                  <img src="images/Dotnetcore.webp" alt="html" />
+                </div>
+                  <div className="lang">
+                  <img src="images/Cshap.png" alt="html" />
+                </div>
+              
+                  <div className="lang">
+                  <img src="images/sqlserver.webp" alt="html" />
                 </div>
                 <div className="lang">
                   <img src="images/react.png" alt="html" />

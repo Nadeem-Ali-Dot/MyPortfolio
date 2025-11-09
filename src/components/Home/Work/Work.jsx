@@ -34,6 +34,21 @@ function Work() {
            </div>
            </div>
 
+           <div className="col-12 col-lg-6">
+           <div>
+              <div className="weather mt-4 card p-3 rounded-2">
+                   <img src="images/skillam.png" alt="" className='img-fluid rounded-2'/>
+                   <div className='mt-md-3 mt-1'>
+                     <h6 className='mb-0 fw-semibold'>Skillam English School</h6>
+                     <div className='my-2'>
+                      <span className=' languages'><small>React Js | Css | Javascript</small></span>
+                    </div>
+                       <a href="https://skillam.vercel.app/" target='_blank' className='text-decoration-none'><small>Go to see<span className='fs-5 ms-1'><IoIosArrowRoundForward/></span></small></a>
+                   </div>
+              </div>
+           </div>
+           </div>
+
           <div className="col-12 col-lg-6">
            <div>
               <div className="weather mt-4 card p-3 rounded-2">

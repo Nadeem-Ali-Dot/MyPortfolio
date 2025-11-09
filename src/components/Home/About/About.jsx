@@ -41,7 +41,7 @@ function About() {
                           <h6 className='fw-semibold mb-3'>Cetpa Infotech</h6>
                           <p className='mb-1'>
                           <small className='text-success me-3'><FaCircle/></small>
-                            <span >Python Full Stack (2022 - 2023)</span>
+                            <span >Python Full Stack </span>
                           </p>
                           
                       </div>

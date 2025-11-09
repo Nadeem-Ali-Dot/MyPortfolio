@@ -29,7 +29,7 @@ function ProfileCard() {
                 A Passionate <span className="fw-bold">Dot Net Developer</span>{" "}
               </p>
               <p>
-              A passionate .NET Developer with 1+ years of hands-on experience building modern, responsive, and user-centric web applications using C#, ASP.NET Core, Entity Framework, and SQL Server on the backend, combined with React.js, HTML5, Tailwind CSS, and SCSS on the frontend.
+              A passionate .NET Developer with 1+ years of hands-on experience building modern, responsive, and user-centric web applications using C#, ASP.NET Core, Entity Framework, and SQL Server on the backend, combined with React.js, HTML5, Tailwind CSS on the frontend.
 
 I specialize in developing scalable, secure, and maintainable full-stack applications, integrating RESTful APIs, managing database operations, and delivering seamless user experiences across web platforms. My expertise lies in blending clean, efficient backend logic with intuitive and dynamic frontend interfaces.
 
