@@ -12,7 +12,7 @@ function About() {
                   <div className="col-12 col-md-7">
                        <p>I am a passionate and dedicated <strong> .NET Full Stack Developer </strong>
                          with a strong foundation in C#, ASP.NET, SQL Server, and modern frontend technologies like React.
-                           I am working as <strong> BSD INFOTECH PVT LTD.</strong>, where I enhanced my skills through various hands-on projects, developing scalable, 
+                           I am working as <strong> LogiClump Technologies PVT LTD.</strong>, where I enhanced my skills through various hands-on projects, developing scalable, 
                         responsive, and user-friendly web applications across both frontend and backend.</p>
                   </div>
                 
@@ -95,6 +95,10 @@ function About() {
                             <p className='mb-1 lang-width'>
                             <small className='text-success me-3'><FaCircle/></small>
                               <span >Dot Net Core</span>
+                            </p>
+                             <p className='mb-1 lang-width'>
+                            <small className='text-success me-3'><FaCircle/></small>
+                              <span >Umbraco</span>
                             </p>
                         </div>
                        </div>

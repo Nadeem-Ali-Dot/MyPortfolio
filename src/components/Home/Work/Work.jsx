@@ -7,6 +7,20 @@ function Work() {
          <div className="col-12 col-lg-6">
            <div>
               <div className="weather mt-4 card p-3 rounded-2">
+                   <img src="images/Arab.png" alt="" className='img-fluid rounded-2'/>
+                   <div className='mt-md-3 mt-1'>
+                     <h6 className='mb-0 fw-semibold'>Arab Monetary Fund</h6>
+                     <div className='my-2'>
+                      <span className=' languages'><small>Umbraco CMS | C# | Sql Server | Git | Html5 | CSS3 | Javascript</small></span>
+                    </div> 
+                       <a href="https://amf-web-fjfghtc8fcgfbfa0.centralindia-01.azurewebsites.net/" target='_blank' className='text-decoration-none'><small>Go to see<span className='fs-5 ms-1'><IoIosArrowRoundForward/></span></small></a>
+                   </div>
+              </div>
+           </div>
+         </div>
+<div className="col-12 col-lg-6">
+           <div>
+              <div className="weather mt-4 card p-3 rounded-2">
                    <img src="images/flextron.png" alt="" className='img-fluid rounded-2'/>
                    <div className='mt-md-3 mt-1'>
                      <h6 className='mb-0 fw-semibold'>Flextron</h6>
@@ -18,6 +32,8 @@ function Work() {
               </div>
            </div>
          </div>
+
+
 
            <div className="col-12 col-lg-6">
            <div>

@@ -29,16 +29,16 @@ function ProfileCard() {
                 A Passionate <span className="fw-bold">Dot Net Developer</span>{" "}
               </p>
               <p>
-              A passionate .NET Developer with 1+ years of hands-on experience building modern, responsive, and user-centric web applications using C#, ASP.NET Core, Entity Framework, and SQL Server on the backend, combined with React.js, HTML5, Tailwind CSS on the frontend.
+           assionate .NET Full Stack Developer
 
-I specialize in developing scalable, secure, and maintainable full-stack applications, integrating RESTful APIs, managing database operations, and delivering seamless user experiences across web platforms. My expertise lies in blending clean, efficient backend logic with intuitive and dynamic frontend interfaces.
+A passionate .NET Full Stack Developer with 2+ years of experience in designing and developing scalable, secure, and user-focused web applications. Skilled in backend development using C#, ASP.NET Core, Web API, Entity Framework, and SQL Server,Umbraco, along with frontend technologies like React.js, JavaScript, HTML5, CSS3, and Bootstrap.
 
-Skilled in .NET Core, Web API, React.js, JavaScript, Bootstrap, and jQuery, I bring a balanced approach to full-stack development — from database design and business logic to polished UI components.
+I specialize in building end-to-end web solutions, including RESTful API development, database design, performance optimization, and seamless UI integration. My focus is on writing clean, maintainable code and delivering efficient, business-driven applications.
 
-I’m eager to contribute to impactful projects, tackle real-world challenges, and continuously grow as a developer while building reliable solutions that solve business problems and delight users.
-              </p>
-            
-              <div
+Experienced in working across the full stack — from database architecture and business logic to responsive and interactive user interfaces — ensuring smooth user experiences and scalable system performance.
+
+I am eager to contribute to impactful projects, solve real-world problems, and continuously grow as a developer in modern software development environments. 
+             </p> <div
                 className="d-flex flex-wrap align-items-center"
                 role="group"
                 aria-label="Basic example"

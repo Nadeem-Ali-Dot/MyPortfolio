@@ -128,7 +128,7 @@ function Contact() {
        </div>
        <div className="col">
             <div className='mt-4 p-4 rounded-2 bg-white'>
-                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112173.03012636!2d77.12658424806516!3d28.527478163551585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x52c2b7494e204dce!2sNew%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1719581198827!5m2!1sen!2sin" width={"100%"} height={"450"} style={{border:'0'}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28018.562087077436!2d77.33659945208963!3d28.620162115249972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5456ef36d9f%3A0x3b7191b1286136c8!2sSector%2062%2C%20Noida%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1778699621384!5m2!1sen!2sin" width={"100%"} height={"450"} style={{border:'0'}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
        </div>
     </div>

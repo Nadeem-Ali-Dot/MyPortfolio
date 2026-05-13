@@ -56,6 +56,10 @@ function Home() {
                 <div className="lang">
                   <img src="images/git.png" alt="html" />
                 </div>
+              
+                <div className="lang">
+                  <img src="images/umbraco.png" alt="html" />
+                </div>
               </div>
               
             </div>
